@@ -1,0 +1,22 @@
+{
+    "name": "lucascampello/strategy_exemple",
+    "description": "Exemplo do Padrão de Projeto Strategy",
+    "minimum-stability": "stable",
+    "license": "BSD-2",
+    "repositories": [
+        {
+            "url": "https://github.com/lucascampello/StrategyExemple"
+        }
+    ],    
+    "authors": [
+        {
+            "name": "Lucas Campello",
+            "email": "lucas.campello.pieva@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Source\\":"source/"
+        }
+    }
+}
